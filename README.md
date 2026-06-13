@@ -24,8 +24,8 @@ I build software that has to actually work — clinical-AI pipelines, real-time 
 <a href="https://github.com/Kush1601/MindSafe"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kush1601&repo=MindSafe&hide_border=true&bg_color=16130e&title_color=FF6F52&icon_color=6877FF&text_color=cabfad" /></a>
 <a href="https://github.com/Kush1601/SurgeAid"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kush1601&repo=SurgeAid&hide_border=true&bg_color=16130e&title_color=FF6F52&icon_color=6877FF&text_color=cabfad" /></a>
 <a href="https://github.com/Kush1601/YelpCamp"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kush1601&repo=YelpCamp&hide_border=true&bg_color=16130e&title_color=FF6F52&icon_color=6877FF&text_color=cabfad" /></a>
-<a href="https://github.com/Kush1601/DAIL_Backend"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kush1601&repo=DAIL_Backend&hide_border=true&bg_color=16130e&title_color=FF6F52&icon_color=6877FF&text_color=cabfad"&v=2 /></a>
-
+<a href="https://github.com/Kush1601/LIA"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kush1601&repo=LIA&hide_border=true&bg_color=16130e&title_color=FF6F52&icon_color=6877FF&text_color=cabfad" /></a>
+  
 </div>
 
 <br/>
