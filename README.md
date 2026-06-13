@@ -12,43 +12,61 @@ I build software that has to actually work — clinical-AI pipelines, real-time 
 
 <br/>
 
-### `// shipped`
-
-| | |
-|:--|:--|
-| **[MindSafe](https://github.com/Kush1601/MindSafe)** | AI safety scoring for kids' YouTube &nbsp;·&nbsp; `Python` `Flask` `scikit-learn` |
-| **[SurgeAid](https://github.com/Kush1601/SurgeAid)** | real-time emergency alerting, sub-5s &nbsp;·&nbsp; `Next.js` `Supabase` `Claude API` |
-| **[YelpCamp](https://github.com/Kush1601/YelpCamp)** | campground discovery + semantic search &nbsp;·&nbsp; `Next.js` `PostGIS` `Drizzle` |
-| **[portfolio](https://github.com/Kush1601/kush-portfolio-v1)** | warm-paper site, ASCII portrait, a game hiding in the DOM &nbsp;·&nbsp; `React` `Vite` |
-
-<br/>
-
 ### `// after hours`
 
 > Three episodes deep into something, sketching, or building a side project nobody asked for. My [portfolio](https://kushdudhia.vercel.app) keeps a gallery — anime stills, places, art I've made. Same eye, different medium.
 
 <br/>
 
+### `// building`
+
+<div align="center">
+
+<a href="https://github.com/Kush1601/MindSafe"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kush1601&repo=MindSafe&hide_border=true&bg_color=16130e&title_color=FF6F52&icon_color=6877FF&text_color=cabfad" /></a>
+<a href="https://github.com/Kush1601/SurgeAid"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kush1601&repo=SurgeAid&hide_border=true&bg_color=16130e&title_color=FF6F52&icon_color=6877FF&text_color=cabfad" /></a>
+<a href="https://github.com/Kush1601/YelpCamp"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kush1601&repo=YelpCamp&hide_border=true&bg_color=16130e&title_color=FF6F52&icon_color=6877FF&text_color=cabfad" /></a>
+<a href="https://github.com/Kush1601/kush-portfolio-v1"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kush1601&repo=kush-portfolio-v1&hide_border=true&bg_color=16130e&title_color=FF6F52&icon_color=6877FF&text_color=cabfad" /></a>
+
+</div>
+
+<br/>
+
 ### `// toolkit`
 
-**core**
+**languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,nodejs,express,flask&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,html,css&theme=dark" />
 
-**data & infra**
+**frontend**
 <br/>
-<img src="https://skillicons.dev/icons?i=postgres,sklearn,vite,supabase,vercel,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,bootstrap,redux&theme=dark" />
 
-**the specialized stuff**
+**backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi&theme=dark" />
+
+**data & ml**
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,sklearn,pytorch,opencv&theme=dark" />
+
+**cloud & tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,aws,vercel,supabase,git,github&theme=dark" />
+
+**specialized**
 <br/>
 <img src="https://img.shields.io/badge/SQL-1f1b14?style=flat-square&logoColor=FF6F52" />
 <img src="https://img.shields.io/badge/PostGIS-1f1b14?style=flat-square&logoColor=FF6F52" />
 <img src="https://img.shields.io/badge/Pandas-1f1b14?style=flat-square&logo=pandas&logoColor=FF6F52" />
-<img src="https://img.shields.io/badge/dbt-1f1b14?style=flat-square&logo=dbt&logoColor=FF6F52" />
 <img src="https://img.shields.io/badge/Claude_API-1f1b14?style=flat-square&logo=anthropic&logoColor=FF6F52" />
+<img src="https://img.shields.io/badge/OpenAI-1f1b14?style=flat-square&logo=openai&logoColor=FF6F52" />
+<img src="https://img.shields.io/badge/Gemini-1f1b14?style=flat-square&logo=googlegemini&logoColor=FF6F52" />
+<img src="https://img.shields.io/badge/Whisper-1f1b14?style=flat-square&logo=openai&logoColor=6877FF" />
 <img src="https://img.shields.io/badge/FHIR_R4-1f1b14?style=flat-square&logoColor=6877FF" />
-<img src="https://img.shields.io/badge/Drizzle-1f1b14?style=flat-square&logoColor=6877FF" />
+<img src="https://img.shields.io/badge/Drizzle-1f1b14?style=flat-square&logo=drizzle&logoColor=6877FF" />
 <img src="https://img.shields.io/badge/Clerk-1f1b14?style=flat-square&logo=clerk&logoColor=6877FF" />
+<img src="https://img.shields.io/badge/Mapbox-1f1b14?style=flat-square&logo=mapbox&logoColor=6877FF" />
+<img src="https://img.shields.io/badge/Playwright-1f1b14?style=flat-square&logo=playwright&logoColor=6877FF" />
 
 <br/>
 
