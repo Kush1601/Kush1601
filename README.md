@@ -21,11 +21,10 @@ I build software that has to actually work — clinical-AI pipelines, real-time 
 ### `// building`
 
 <div align="center">
-
 <a href="https://github.com/Kush1601/MindSafe"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kush1601&repo=MindSafe&hide_border=true&bg_color=16130e&title_color=FF6F52&icon_color=6877FF&text_color=cabfad" /></a>
 <a href="https://github.com/Kush1601/SurgeAid"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kush1601&repo=SurgeAid&hide_border=true&bg_color=16130e&title_color=FF6F52&icon_color=6877FF&text_color=cabfad" /></a>
 <a href="https://github.com/Kush1601/YelpCamp"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kush1601&repo=YelpCamp&hide_border=true&bg_color=16130e&title_color=FF6F52&icon_color=6877FF&text_color=cabfad" /></a>
-<a href="https://github.com/Kush1601/kush-portfolio-v1"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kush1601&repo=kush-portfolio-v1&hide_border=true&bg_color=16130e&title_color=FF6F52&icon_color=6877FF&text_color=cabfad" /></a>
+<a href="https://github.com/Kush1601/DAIL_Backend"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kush1601&repo=DAIL_Backend&hide_border=true&bg_color=16130e&title_color=FF6F52&icon_color=6877FF&text_color=cabfad" /></a>
 
 </div>
 
@@ -83,7 +82,7 @@ I build software that has to actually work — clinical-AI pipelines, real-time 
 <div align="center">
 
 [![portfolio](https://img.shields.io/badge/portfolio-FF6F52?style=for-the-badge&logoColor=16130e)](https://kushdudhia.vercel.app)
-[![linkedin](https://img.shields.io/badge/linkedin-6877FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kushdudhia)
+[![linkedin](https://img.shields.io/badge/linkedin-6877FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kush-dudhia/)
 [![email](https://img.shields.io/badge/email-1f1b14?style=for-the-badge&logo=gmail&logoColor=FF6F52)](mailto:dudhiakush16@gmail.com)
 
 </div>
